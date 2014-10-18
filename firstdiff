@@ -1,0 +1,1421 @@
+diff --git a/real-value/BingSiteAuth.xml b/real-value/BingSiteAuth.xml
+new file mode 100644
+index 0000000..47330be
+--- /dev/null
++++ b/real-value/BingSiteAuth.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0"?>
++<users>
++	<user>F568ACBA7D1E9A23819E50A358F80D93</user>
++</users>
+\ No newline at end of file
+diff --git a/real-value/Industry-adoptionand-trending.html b/real-value/Industry-adoptionand-trending.html
+index fd5873a..819baec 100644
+--- a/real-value/Industry-adoptionand-trending.html
++++ b/real-value/Industry-adoptionand-trending.html
+@@ -196,20 +196,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -321,13 +321,13 @@ holders. Use of them does not imply any affiliation with or endorsement by them.
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/aboutus.html b/real-value/aboutus.html
+index 1612638..7cc3c3d 100644
+--- a/real-value/aboutus.html
++++ b/real-value/aboutus.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -281,13 +281,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/careers.html b/real-value/careers.html
+index 48ae032..49a4847 100644
+--- a/real-value/careers.html
++++ b/real-value/careers.html
+@@ -174,20 +174,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -275,13 +275,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/contactus.html b/real-value/contactus.html
+index fcfc068..f80ceba 100644
+--- a/real-value/contactus.html
++++ b/real-value/contactus.html
+@@ -176,20 +176,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -298,13 +298,13 @@ Miyapur, Hyderabad 500049, AP, India<br>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/disclaimer.html b/real-value/disclaimer.html
+index c730f4a..8e39b1c 100644
+--- a/real-value/disclaimer.html
++++ b/real-value/disclaimer.html
+@@ -175,20 +175,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -278,13 +278,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/enterprise-revenue-dynamics.html b/real-value/enterprise-revenue-dynamics.html
+index e041b6b..4bd3810 100644
+--- a/real-value/enterprise-revenue-dynamics.html
++++ b/real-value/enterprise-revenue-dynamics.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -222,7 +222,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <section class="top_content clearfix">
+ <section class="info_bar clearfix ">
+ <section class="heading">
+-<h2>Enterprise Revenue Dynamics</h2>
++<h2>Enterprise Revenue Dynamics&#153;</h2>
+ </section> 
+ 
+ <section class="breadcrumb">
+@@ -232,7 +232,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <span itemprop="title" title="Home">Home</span></a>  
+ <div itemscope itemprop="child" itemtype="#">
+ <img src="images/icons/right.png">
+-<span itemprop="title" title="Enterprise Revenue Dynamics">Enterprise Revenue Dynamics</span>
++<span itemprop="title" title="Enterprise Revenue Dynamics">Enterprise Revenue Dynamics&#153;</span>
+ </div>
+ </div>
+ </section>
+@@ -274,13 +274,13 @@ proposition or "the offer set"  -  product  offerings, terms and conditions
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+diff --git a/real-value/expediting-action-synthesizer.html b/real-value/expediting-action-synthesizer.html
+index 8181601..5f5690b 100644
+--- a/real-value/expediting-action-synthesizer.html
++++ b/real-value/expediting-action-synthesizer.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -222,7 +222,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <section class="top_content clearfix">
+ <section class="info_bar clearfix ">
+ <section class="heading">
+-<h2>Expediting Action Synthesizer</h2>
++<h2>Expediting Action Synthesizer&#153;</h2>
+ </section> 
+ 
+ <section class="breadcrumb">
+@@ -232,7 +232,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <span itemprop="title" title="Home">Home</span></a>  
+ <div itemscope itemprop="child" itemtype="#">
+ <img src="images/icons/right.png">
+-<span itemprop="title" title="Expediting Action Synthesizer">Expediting Action Synthesizer</span>
++<span itemprop="title" title="Expediting Action Synthesizer">Expediting Action Synthesizer&#153;</span>
+ </div>
+ </div>
+ </section>
+@@ -270,13 +270,13 @@ within the constraints of budgeted expediting expense.</p>
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+diff --git a/real-value/fill-rates-optimizer.html b/real-value/fill-rates-optimizer.html
+index 0cfe7b2..92c814c 100644
+--- a/real-value/fill-rates-optimizer.html
++++ b/real-value/fill-rates-optimizer.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -222,7 +222,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <section class="top_content clearfix">
+ <section class="info_bar clearfix ">
+ <section class="heading">
+-<h2>Fill Rates Optimizer</h2>
++<h2>Fill Rates Optimizer&#153;</h2>
+ </section> 
+ 
+ <section class="breadcrumb">
+@@ -232,7 +232,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <span itemprop="title" title="Home">Home</span></a>  
+ <div itemscope itemprop="child" itemtype="#">
+ <img src="images/icons/right.png">
+-<span itemprop="title" title="Fill Rates Optimizer">Fill Rates Optimizer</span>
++<span itemprop="title" title="Fill Rates Optimizer">Fill Rates Optimizer&#153;</span>
+ </div>
+ </div>
+ </section>
+@@ -268,13 +268,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+diff --git a/real-value/google6c65fcc834bac14d.html b/real-value/google6c65fcc834bac14d.html
+new file mode 100644
+index 0000000..7907b54
+--- /dev/null
++++ b/real-value/google6c65fcc834bac14d.html
+@@ -0,0 +1 @@
++google-site-verification: google6c65fcc834bac14d.html
+\ No newline at end of file
+diff --git a/real-value/index.html b/real-value/index.html
+index 170a6e8..2828c86 100644
+--- a/real-value/index.html
++++ b/real-value/index.html
+@@ -185,20 +185,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -633,7 +633,7 @@ fullScreenOffsetContainer: "header"
+ </div>
+ <div class="caption title_centered ">
+ <h3 class="featured_article_title "> 
+-<a href="fill-rates-optimizer.html" title="Fill Rates Optimizer" target="_self">Fill Rates Optimizer</a>
++<a href="fill-rates-optimizer.html" title="Fill Rates Optimizer" target="_self">Fill Rates Optimizer&#153;</a>
+ </h3>
+ </div>
+ <div class="space margin-b20"></div>
+@@ -650,7 +650,7 @@ Fill Rate Optimizer component of OCRM has a combination of algorithms and heur
+ </div>
+ <div class="caption title_centered ">
+ <h3 class="featured_article_title "> 
+-<a href="sales-realization-optimizer.html" title="Sales Realization Optimizer" target="_self">Sales Realization Optimizer</a>
++<a href="sales-realization-optimizer.html" title="Sales Realization Optimizer" target="_self">Sales Realization Optimizer&#153;</a>
+ </h3>
+ </div>
+ <div class="space margin-b20"></div>
+@@ -665,7 +665,7 @@ Fill Rate Optimizer component of OCRM has a combination of algorithms and heur
+ <img src="images/tag.png" width="13" style="margin-left:45%">
+ </div>
+ <div class="caption title_centered ">
+-<h3 class="featured_article_title"> <a href="expediting-action-synthesizer.html" title="Expediting Action Synthesizer" target="_self">Expediting Action Synthesizer</a></h3>
++<h3 class="featured_article_title"> <a href="expediting-action-synthesizer.html" title="Expediting Action Synthesizer" target="_self">Expediting Action Synthesizer&#153;</a></h3>
+ </div>
+ <div class="space margin-b20"></div>
+ <p class="aligncenter">Expediting Action Synthesizer component of OCRM uses advanced optimization techniques and heuristics based comprehensive approach</p>
+@@ -680,7 +680,7 @@ Fill Rate Optimizer component of OCRM has a combination of algorithms and heur
+ </div>
+ <div class="caption title_centered ">
+ <h3 class="featured_article_title "> 
+-<a href="enterprise-revenue-dynamics.html" title="Enterprise Revenue Dynamics" target="_self">Enterprise Revenue Dynamics</a>
++<a href="enterprise-revenue-dynamics.html" title="Enterprise Revenue Dynamics" target="_self">Enterprise Revenue Dynamics&#153;</a>
+ </h3>
+ </div>
+ <div class="space margin-b20"></div>
+diff --git a/real-value/mission.html b/real-value/mission.html
+index e4f0587..18fefa9 100644
+--- a/real-value/mission.html
++++ b/real-value/mission.html
+@@ -175,20 +175,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -243,7 +243,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <div class="row">
+ <div id="idTextPanel">
+ <p>Our mission is to develop and deploy <strong>Operations - Centric Revenue Management</strong> solutions
+- for the vendors to retailers in the B2B equation.</p>
++ for the Manufacturing,distribution and services industries in the B2B space.</p>
+ </div>
+ 
+ </div>
+@@ -277,13 +277,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/ourapproach.html b/real-value/ourapproach.html
+index 80e8062..ba36a12 100644
+--- a/real-value/ourapproach.html
++++ b/real-value/ourapproach.html
+@@ -180,20 +180,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -287,13 +287,13 @@ to keep it in "engaged mode" during the End of Quarter rush etc. The client's cu
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/partnering.html b/real-value/partnering.html
+index 1141b50..de3e4a8 100644
+--- a/real-value/partnering.html
++++ b/real-value/partnering.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -284,13 +284,13 @@ The Architects and product managers of leading technology companies that joined
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/products.html b/real-value/products.html
+index bd86a9d..86accb9 100644
+--- a/real-value/products.html
++++ b/real-value/products.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -274,13 +274,13 @@ operations management  is  a  technologically sophisticated, detailed  and 
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+diff --git a/real-value/sales-realization-optimizer.html b/real-value/sales-realization-optimizer.html
+index 67f7974..15034f2 100644
+--- a/real-value/sales-realization-optimizer.html
++++ b/real-value/sales-realization-optimizer.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -222,7 +222,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <section class="top_content clearfix">
+ <section class="info_bar clearfix ">
+ <section class="heading">
+-<h2>Sales Realization Optimizer</h2>
++<h2>Sales Realization Optimizer&#153;</h2>
+ </section> 
+ 
+ <section class="breadcrumb">
+@@ -232,7 +232,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <span itemprop="title" title="Home">Home</span></a>  
+ <div itemscope itemprop="child" itemtype="#">
+ <img src="images/icons/right.png">
+-<span itemprop="title" title="Sales Realization Optimizer">Sales Realization Optimizer</span>
++<span itemprop="title" title="Sales Realization Optimizer">Sales Realization Optimizer&#153;</span>
+ </div>
+ </div>
+ </section>
+@@ -269,13 +269,13 @@ dates to manage the revenue streams  in the delivery horizon.</p>
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+diff --git a/real-value/services.html b/real-value/services.html
+index 2075b89..21adc69 100644
+--- a/real-value/services.html
++++ b/real-value/services.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -298,13 +298,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/sidemenu.html b/real-value/sidemenu.html
+index f054f4f..7836d2e 100644
+--- a/real-value/sidemenu.html
++++ b/real-value/sidemenu.html
+@@ -53,13 +53,13 @@
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/silde.html b/real-value/silde.html
+index 1973dc3..20c27b7 100644
+--- a/real-value/silde.html
++++ b/real-value/silde.html
+@@ -1,57 +1,57 @@
+-<!DOCTYPE html>
+-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+-<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+-<!--[if gt IE 8]><!-->
+-<html class="no-js">
+-<!--<![endif]-->
+-<head>
+-<title>Elastislide - A Responsive Image Carousel</title>
+-<meta charset="UTF-8" />
+-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+-<meta name="viewport" content="width=device-width"> 
+-<meta name="keywords" content="" />
+-<link rel="stylesheet" type="text/css" href="css/demo-slide.css" />
+-<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+-<link rel="stylesheet" type="text/css" href="css/custom.css" />
+-<script src="js/modernizr.custom.17475.js"></script>
+-</head>
+-<body>
+-<div class="container demo-1">
+-<div class="main">
+-<!-- Elastislide Carousel -->
+-<ul id="carousel" class="elastislide-list">
+-<li><a href="#"><img src="images/small/1.jpg" alt="image01" /></a></li>
+-<li><a href="#"><img src="images/small/2.jpg" alt="image02" /></a></li>
+-<li><a href="#"><img src="images/small/3.jpg" alt="image03" /></a></li>
+-<li><a href="#"><img src="images/small/4.jpg" alt="image04" /></a></li>
+-<li><a href="#"><img src="images/small/5.jpg" alt="image05" /></a></li>
+-<li><a href="#"><img src="images/small/6.jpg" alt="image06" /></a></li>
+-<li><a href="#"><img src="images/small/7.jpg" alt="image07" /></a></li>
+-<li><a href="#"><img src="images/small/8.jpg" alt="image08" /></a></li>
+-<li><a href="#"><img src="images/small/9.jpg" alt="image09" /></a></li>
+-<li><a href="#"><img src="images/small/10.jpg" alt="image10" /></a></li>
+-<li><a href="#"><img src="images/small/11.jpg" alt="image11" /></a></li>
+-<li><a href="#"><img src="images/small/12.jpg" alt="image12" /></a></li>
+-<li><a href="#"><img src="images/small/13.jpg" alt="image13" /></a></li>
+-<li><a href="#"><img src="images/small/14.jpg" alt="image14" /></a></li>
+-<li><a href="#"><img src="images/small/15.jpg" alt="image15" /></a></li>
+-<li><a href="#"><img src="images/small/16.jpg" alt="image16" /></a></li>
+-<li><a href="#"><img src="images/small/17.jpg" alt="image17" /></a></li>
+-<li><a href="#"><img src="images/small/18.jpg" alt="image18" /></a></li>
+-<li><a href="#"><img src="images/small/19.jpg" alt="image19" /></a></li>
+-<li><a href="#"><img src="images/small/20.jpg" alt="image20" /></a></li>
+-</ul>
+-<!-- End Elastislide Carousel -->
+-</div>
+-</div>
+-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+-<script type="text/javascript" src="js/jquerypp.custom.js"></script>
+-<script type="text/javascript" src="js/jquery.elastislide.js"></script>
+-<script type="text/javascript">
+-			
+-			$( '#carousel' ).elastislide();
+-			
+-</script>
+-</body>
++<!DOCTYPE html>
++<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
++<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
++<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
++<!--[if gt IE 8]><!-->
++<html class="no-js">
++<!--<![endif]-->
++<head>
++<title>Elastislide - A Responsive Image Carousel</title>
++<meta charset="UTF-8" />
++<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
++<meta name="viewport" content="width=device-width"> 
++<meta name="keywords" content="" />
++<link rel="stylesheet" type="text/css" href="css/demo-slide.css" />
++<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
++<link rel="stylesheet" type="text/css" href="css/custom.css" />
++<script src="js/modernizr.custom.17475.js"></script>
++</head>
++<body>
++<div class="container demo-1">
++<div class="main">
++<!-- Elastislide Carousel -->
++<ul id="carousel" class="elastislide-list">
++<li><a href="#"><img src="images/small/1.jpg" alt="image01" /></a></li>
++<li><a href="#"><img src="images/small/2.jpg" alt="image02" /></a></li>
++<li><a href="#"><img src="images/small/3.jpg" alt="image03" /></a></li>
++<li><a href="#"><img src="images/small/4.jpg" alt="image04" /></a></li>
++<li><a href="#"><img src="images/small/5.jpg" alt="image05" /></a></li>
++<li><a href="#"><img src="images/small/6.jpg" alt="image06" /></a></li>
++<li><a href="#"><img src="images/small/7.jpg" alt="image07" /></a></li>
++<li><a href="#"><img src="images/small/8.jpg" alt="image08" /></a></li>
++<li><a href="#"><img src="images/small/9.jpg" alt="image09" /></a></li>
++<li><a href="#"><img src="images/small/10.jpg" alt="image10" /></a></li>
++<li><a href="#"><img src="images/small/11.jpg" alt="image11" /></a></li>
++<li><a href="#"><img src="images/small/12.jpg" alt="image12" /></a></li>
++<li><a href="#"><img src="images/small/13.jpg" alt="image13" /></a></li>
++<li><a href="#"><img src="images/small/14.jpg" alt="image14" /></a></li>
++<li><a href="#"><img src="images/small/15.jpg" alt="image15" /></a></li>
++<li><a href="#"><img src="images/small/16.jpg" alt="image16" /></a></li>
++<li><a href="#"><img src="images/small/17.jpg" alt="image17" /></a></li>
++<li><a href="#"><img src="images/small/18.jpg" alt="image18" /></a></li>
++<li><a href="#"><img src="images/small/19.jpg" alt="image19" /></a></li>
++<li><a href="#"><img src="images/small/20.jpg" alt="image20" /></a></li>
++</ul>
++<!-- End Elastislide Carousel -->
++</div>
++</div>
++<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
++<script type="text/javascript" src="js/jquerypp.custom.js"></script>
++<script type="text/javascript" src="js/jquery.elastislide.js"></script>
++<script type="text/javascript">
++			
++			$( '#carousel' ).elastislide();
++			
++</script>
++</body>
+ </html>
+\ No newline at end of file
+diff --git a/real-value/sitemap.html b/real-value/sitemap.html
+new file mode 100644
+index 0000000..78f0dfa
+--- /dev/null
++++ b/real-value/sitemap.html
+@@ -0,0 +1,150 @@
++<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
++<html>
++<head>
++<title>Site Map  Page 1 - Generated by www.xml-sitemaps.com</title>
++<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
++<style type="text/css">
++body {
++background-color: #DDD;
++font: normal 80%  "Trebuchet MS", "Helvetica", sans-serif;
++margin:0;
++text-align:center;
++}
++#cont{
++margin:auto;
++width:800px;
++text-align:left;
++}
++a:link,a:visited {
++color: #0180AF;
++text-decoration: underline;
++}
++a:hover {
++color: #666;
++}
++h1 {
++background-color:#fff;
++padding:20px;
++color:#00AEEF;
++text-align:left;
++font-size:32px;
++margin:0px;
++}
++h3 {
++font-size:12px;
++background-color:#B8DCE9;
++margin:0px;
++padding:10px;
++}
++h3 a {
++float:right;
++font-weight:normal;
++display:block;
++}
++th {
++text-align:center;
++background-color:#00AEEF;
++color:#fff;
++padding:4px;
++font-weight:normal;
++font-size:12px;
++}
++td {
++font-size:12px;
++padding:3px;
++text-align:left;
++}
++tr {background: #fff}
++tr:nth-child(odd) {background: #f0f0f0}
++#footer {
++background-color:#B8DCE9;
++padding:10px;
++}
++.pager,.pager a {
++background-color:#00AEEF;
++color:#fff;
++padding:3px;
++}
++.lhead {
++background-color:#fff;
++padding:3px;
++font-weight:bold;
++font-size:16px;
++}
++.lpart {
++background-color:#f0f0f0;
++padding:0px;
++}
++.lpage {
++font:normal 12px verdana;
++}
++.lcount {
++background-color:#00AEEF;
++color:#fff;
++padding:2px;
++margin:2px;
++font:bold 12px verdana;
++}
++a.aemphasis {
++color:#009;
++font-weight:bold;
++}
++</style>
++
++</head>
++<body>
++<div id="cont">
++<h1>HTML Site Map</h1>
++<h3><a href="http://www.realvalueit.com">Homepage</a>
++Last updated: 2014, September 7
++</h3>
++
++
++<table cellpadding="0" cellspacing="0" border="0" width="100%">
++
++<tr valign="top">
++<td class="lpart" colspan="100"><div class="lhead">/
++<span class="lcount">18 pages</span></div>
++
++<table cellpadding="0" cellspacing="0" border="0" width="100%">
++
++<tr><td class="lpage"><a href="http://www.realvalueit.com/" title="Real Value">Real Value</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/index.html" title="Real Value">Real Value</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/aboutus.html" title="About Us">About Us</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/whatwedo.html" title="What We Do">What We Do</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/mission.html" title="Mission">Mission</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/ourapproach.html" title="Our Approach">Our Approach</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/careers.html" title="Careers">Careers</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/products.html" title="Products">Products</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/fill-rates-optimizer.html" title="Fill Rates Optimizer">Fill Rates Optimizer</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/sales-realization-optimizer.html" title="Sales Realization Optimizer">Sales Realization Optimizer</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/expediting-action-synthesizer.html" title="Expediting Action Synthesizer">Expediting Action Synthesizer</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/enterprise-revenue-dynamics.html" title="Enterprise Revenue Dynamics">Enterprise Revenue Dynamics</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/tab.html" title="Transacted Activity Billing">Transacted Activity Billing</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/services.html" title="Services">Services</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/Industry-adoptionand-trending.html" title="Industry Adoption and Trending">Industry Adoption and Trending</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/partnering.html" title="Partnering">Partnering</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/whitepapersandpodcasts.html" title="White Papers and Podcasts">White Papers and Podcasts</a></td></tr>
++<tr><td class="lpage"><a href="http://www.realvalueit.com/contactus.html" title="Contact Us">Contact Us</a></td></tr>
++</table>
++</td>
++</tr>
++
++</table>
++
++
++<!--
++Please note:
++You are not allowed to remove the copyright notice below.
++Thank you!
++www.xml-sitemaps.com
++-->
++<div id="footer">
++Page generated by XML-Sitemaps.com - <a target="_blank" href="http://www.xml-sitemaps.com">Google XML sitemap and html sitemaps generator</a>
++|
++Copyright &copy; 2005-2013
++
++</div>
++</div>
++</body>
++</html>
+diff --git a/real-value/sitemap.xml b/real-value/sitemap.xml
+new file mode 100644
+index 0000000..686de54
+--- /dev/null
++++ b/real-value/sitemap.xml
+@@ -0,0 +1,81 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<urlset
++      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
++      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
++            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
++<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
++
++<url>
++  <loc>http://www.realvalueit.com/</loc>
++  <lastmod>2014-09-07T05:58:38+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/index.html</loc>
++  <lastmod>2014-09-07T05:58:38+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/aboutus.html</loc>
++  <lastmod>2014-09-07T06:01:03+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/whatwedo.html</loc>
++  <lastmod>2014-09-07T06:17:03+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/mission.html</loc>
++  <lastmod>2014-09-07T06:09:25+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/ourapproach.html</loc>
++  <lastmod>2014-09-07T06:10:11+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/careers.html</loc>
++  <lastmod>2014-09-07T06:01:50+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/products.html</loc>
++  <lastmod>2014-09-07T06:11:36+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/fill-rates-optimizer.html</loc>
++  <lastmod>2014-09-07T06:22:53+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/sales-realization-optimizer.html</loc>
++  <lastmod>2014-09-07T06:24:46+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/expediting-action-synthesizer.html</loc>
++  <lastmod>2014-09-07T06:22:21+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/enterprise-revenue-dynamics.html</loc>
++  <lastmod>2014-09-07T06:24:08+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/tab.html</loc>
++  <lastmod>2014-09-07T06:26:12+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/services.html</loc>
++  <lastmod>2014-09-07T06:13:01+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/Industry-adoptionand-trending.html</loc>
++  <lastmod>2014-09-07T06:08:44+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/partnering.html</loc>
++  <lastmod>2014-09-07T06:10:52+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/whitepapersandpodcasts.html</loc>
++  <lastmod>2014-09-07T06:17:50+00:00</lastmod>
++</url>
++<url>
++  <loc>http://www.realvalueit.com/contactus.html</loc>
++  <lastmod>2014-09-07T06:02:43+00:00</lastmod>
++</url>
++</urlset>
+\ No newline at end of file
+diff --git a/real-value/tab.html b/real-value/tab.html
+index 95ed6f4..c9936dd 100644
+--- a/real-value/tab.html
++++ b/real-value/tab.html
+@@ -175,20 +175,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -218,7 +218,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <section class="top_content clearfix">
+ <section class="info_bar clearfix ">
+ <section class="heading">
+-<h2>Transacted Activity Billing (TAB) </h2>
++<h2>Transacted Activity Billing (TAB&#153;) </h2>
+ </section> 
+ 
+ <section class="breadcrumb">
+@@ -228,7 +228,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <span itemprop="title" title="Home">Home</span></a>  
+ <div itemscope itemprop="child" itemtype="#">
+ <img src="images/icons/right.png">
+-<span itemprop="title" title="Fill Rates Optimizer">Transacted Activity Billing </span>
++<span itemprop="title" title="Fill Rates Optimizer">Transacted Activity Billing&#153;</span>
+ </div>
+ </div>
+ </section>
+@@ -243,7 +243,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <div class="row">
+ <div id="idTextPanel">
+ <p style="text-align:justify;">As products are being offered as services in various industries including technology, the conventional pricing and billing models are becoming obsolete. Most of the ERP's and off-the shelf transaction processing systems have all the required capabilities for conventional products/ services pricing and billing.  These capabilities, however, are grossly inadequate to handle the usage based pricing and billing models, the new service offerings require.</p>
+-<p style="text-align:justify;">TAB – Transacted Activity Billing is Real Value IT's cloud based SaaS offering that supplements the SAP transaction processing system with the usage based pricing and billing capabilities. TAB distinguishes itself from the other Usage Based Billing Applications in the market through the Real Value IT's mathematical optimization models based component called "MERM" - Multiple Element Revenue Management.  Enterprises can thus design the revenue maximizing offerings besides addressing their usage based pricing and billing related requirements.
++<p style="text-align:justify;">TAB&#153; – Transacted Activity Billing is Real Value IT's cloud based SaaS offering that supplements the SAP transaction processing system with the usage based pricing and billing capabilities. TAB&#153; distinguishes itself from the other Usage Based Billing Applications in the market through the Real Value IT's mathematical optimization models based component called "MERM" - Multiple Element Revenue Management.  Enterprises can thus design the revenue maximizing offerings besides addressing their usage based pricing and billing related requirements.
+ </p></div>
+ 
+ </div>
+@@ -264,13 +264,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="#">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ 
+@@ -280,7 +280,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2110">
+ <img src="images/right-ar.png"><a href="ourapproach.html">Our Approach</a></li>
+ <li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2110">
+-<img src="images/right-ar.png"><a href="whoweare.html">Who We Are</a></li>
++<img src="images/right-ar.png"><a href="whatwedo.html">What We Do</a></li>
+ <li id="menu-item-2093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2093">
+ <img src="images/right-ar.png"><a href="mission.html">Mission</a></li>
+ <li id="menu-item-2109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2109">
+diff --git a/real-value/whatwedo.html b/real-value/whatwedo.html
+index bc97203..cb18979 100644
+--- a/real-value/whatwedo.html
++++ b/real-value/whatwedo.html
+@@ -179,20 +179,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -287,13 +287,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
+diff --git a/real-value/whitepapersandpodcasts.html b/real-value/whitepapersandpodcasts.html
+index b5a2535..e18f9ba 100644
+--- a/real-value/whitepapersandpodcasts.html
++++ b/real-value/whitepapersandpodcasts.html
+@@ -175,20 +175,20 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">PRODUCTS</a> 
+ <ul class="sub-menu">
+ <li> 
+-<a href="#">OCRM</a>
++<a href="#">OCRM&#153;</a>
+ <ul class="sub-menu">
+ <li id='menu-item-1679'  class="menu-item menu-item-type-custom menu-item-object-custom">
+-<a href="fill-rates-optimizer.html">Fill Rates Optimizer</a> </li>
++<a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a> </li>
+ <li id='menu-item-1678'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="sales-realization-optimizer.html">Sales Realization Optimizer</a> </li>
++<a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a> </li>
+ <li id='menu-item-1677'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a> </li>
++<a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a> </li>
+ <li id='menu-item-1680'  class="menu-item menu-item-type-post_type menu-item-object-page">
+-<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ </li>
+ <li> 
+-<a href="tab.html">TAB</a></li>
++<a href="tab.html">TAB&#153;</a></li>
+ </ul>
+ </li>
+ <li id='menu-item-1612'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'>
+@@ -279,13 +279,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
+ <a href="products.html">Products</a>
+ <ul class="sub-menu">
+ <li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
+-<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer</a></li>
++<img src="images/right-ar.png"><a href="fill-rates-optimizer.html">Fill Rates Optimizer&#153;</a></li>
+ <li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097">
+-<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer</a></li>
++<img src="images/right-ar.png"><a href="sales-realization-optimizer.html">Sales Realization Optimizer&#153;</a></li>
+ <li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2105">
+-<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer</a></li>
++<img src="images/right-ar.png"><a href="expediting-action-synthesizer.html">Expediting Action Synthesizer&#153;</a></li>
+ <li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102">
+-<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics</a></li>
++<img src="images/right-ar.png"><a href="enterprise-revenue-dynamics.html">Enterprise Revenue Dynamics&#153;</a></li>
+ </ul>
+ 
+ </li>
