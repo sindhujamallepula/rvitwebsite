@@ -5674,6 +5674,10 @@ table#wp-calendar th,table#wp-calendar td{
 	color:#E0AF1D;
 }
 
+.widget_nav_menu ul li.side-menu-indent {
+	margin-left:30px;
+}
+
 /* Second level menu */
 .widget_archive ul ul, .widget_links ul ul, .widget_nav_menu ul ul, .widget_categories  ul ul, .widget_meta  ul ul, .widget_recent_entries  ul ul, .widget_pages  ul ul, .widget_rss  ul ul, .widget_recent_comments  ul ul, .widget_product_categories ul ul{
 	list-style:none;
