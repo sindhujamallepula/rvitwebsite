@@ -31,7 +31,10 @@ if(isset($_POST['email'])) {
  
         !isset($_POST['email']) ||
  
-        !isset($_POST['company_name'])) {
+        !isset($_POST['company_name']) ||
+
+        !isset($_POST['whitepaper'])
+        ) {
  
         died('Please enter all required fields');      
  
@@ -40,7 +43,10 @@ if(isset($_POST['email'])) {
     $name = $_POST['name']; // required
     $email_to = $_POST['email']; // required
     $company_name = $_POST['company_name']; // not required
- 
+    $whitepaper = $_POST['whitepaper'];
+
+    $send_email_to = "sindhuja.mallepula@realvalueit.com";
+
     //$comments = $_POST['comments']; 
  
     $error_message = "";
@@ -76,10 +82,11 @@ if(isset($_POST['email'])) {
     $email_message .= "First Name: ".clean_string($name)."\n";
     $email_message .= "Email: ".clean_string($email_to)."\n";
     $email_message .= "Comments: ".clean_string($company_name)."\n";
-    
+    $email_message .= "Whitepaper Requested: ".clean_string($whitepaper)."\n";
+
     $mail = new PHPMailer();
 
-    $mail->AddAddress($email_to);
+    $mail->AddAddress($send_email_to);
 
     $mail->From         = $email_from;
     $mail->FromName     = "Real Value IT";
@@ -87,8 +94,25 @@ if(isset($_POST['email'])) {
     $mail->Body         = $email_message;
 
     //public function AddAttachment($path, $name = '', $encoding = 'base64', $type = 'application/octet-stream') {
-    $mail->AddAttachment("/home3/realvalu/public_html/whitepapers/RealValueWhitePaper1.pdf", "Real Value White Paper", "base64", "application/pdf");
+    //$mail->AddAttachment("/home3/realvalu/public_html/whitepapers/RealValueWhitePaper1.pdf", "Real Value White Paper", "base64", "application/pdf");
     $mail->Send();
+
+    $email_message_to_prospect = "Thank you for your interest in Real Value IT's whitepapers. ";
+    $email_message_to_prospect .= "We acknowledge the receipt of your request for the white paper titled ". $whitepaper ."\n";
+    $email_message_to_prospect .= "A pdf copy of the white paper will be emailed to you."."\n\n";
+    $email_message_to_prospect .= "Regards,"."\n";
+    $email_message_to_prospect .= "Corporate Communications Division,"."\n";
+    $email_message_to_prospect .= "Real Value IT LLC.";
+
+    $mail_to_prospect = new PHPMailer();
+    $mail_to_prospect->AddAddress($send_email_to);
+    $mail_to_prospect->From = $email_from;
+    $mail_to_prospect->FromName = "Real Value IT";
+    $mail_to_prospect->Subject = "Real Value IT - white paper request acknowledgement";
+    $mail_to_prospect->Body = $email_message_to_prospect;
+
+    $mail_to_prospect->Send();
+ 
 
     returnSuccess();
     }

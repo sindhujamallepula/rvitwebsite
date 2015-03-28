@@ -269,11 +269,13 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 	  <label for="name">Name*</label><br/>
 	  <input  type="text" name="name" maxlength="50" size="30"></br>
 
-	  <label for="email">Email Address *</label><br>
+	  <label for="email">Work Email Address *</label><br>
 	  <input  type="text" name="email" maxlength="80" size="30"><br/>
 
 	  <label for="company_name">Company Name *</label></br>
 	  <input  type="text" name="company_name" maxlength="80" size="30"></br>
+
+	  <input type="hidden" name="whitepaper" value="Applying Revenue Management Techniques For Handling Peak-load Demands During The End Of Quarter Rush" />
 
 	  <p style="padding-top:20px"/>
 	  <input type="submit" value="Submit"/> 
@@ -282,7 +284,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 </div>
 
 <div id="success_message1" style="display:none">
-	<p>The requested white paper has been emailed to you.</p>
+	<p>The requested white paper will be emailed to you.</p>
 </div>
 
 <div id="error_message1" style="display:none">
@@ -310,16 +312,18 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 
 <div id="request_white_paper2" style="display:none">
 	<p>To request the white paper, please fill out the form below</p>
-	<form name="contactform" method="post" action="#" id="emailwhitepaper1">
+	<form name="contactform" method="post" action="#" id="emailwhitepaper2">
 	 
 	  <label for="name">Name*</label><br/>
 	  <input  type="text" name="name" maxlength="50" size="30"></br>
 
-	  <label for="email">Email Address *</label><br>
+	  <label for="email">Work Email Address *</label><br>
 	  <input  type="text" name="email" maxlength="80" size="30"><br/>
 
 	  <label for="company_name">Company Name *</label></br>
 	  <input  type="text" name="company_name" maxlength="80" size="30"></br>
+	  
+	  <input type="hidden" name="whitepaper" value="Operations-Centric Revenue Management – Could this be a solution for Fill Rate chargeback challenges?" />
 
 	  <p style="padding-top:20px"/>
 	  <input type="submit" value="Submit"/> 
@@ -328,7 +332,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 </div>
 
 <div id="success_message2" style="display:none">
-	<p>The requested white paper has been emailed to you.</p>
+	<p>The requested white paper will be emailed to you.</p>
 </div>
 
 <div id="error_message2" style="display:none">
@@ -356,16 +360,18 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 
 <div id="request_white_paper3" style="display:none">
 	<p>To request the white paper, please fill out the form below</p>
-	<form name="contactform" method="post" action="#" id="emailwhitepaper1">
+	<form name="contactform" method="post" action="#" id="emailwhitepaper3">
 	 
 	  <label for="name">Name*</label><br/>
 	  <input  type="text" name="name" maxlength="50" size="30"></br>
 
-	  <label for="email">Email Address *</label><br>
+	  <label for="email">Work Email Address *</label><br>
 	  <input  type="text" name="email" maxlength="80" size="30"><br/>
 
 	  <label for="company_name">Company Name *</label></br>
 	  <input  type="text" name="company_name" maxlength="80" size="30"></br>
+
+	  <input type="hidden" name="whitepaper" value="Revenue Management in Real World - Manufacturing Industry Examples" />
 
 	  <p style="padding-top:20px"/>
 	  <input type="submit" value="Submit"/> 
@@ -374,7 +380,7 @@ Mail: <a href="Mailto:inquiries@realvalueasia.com">inquiries@realvalueit.com</a>
 </div>
 
 <div id="success_message3" style="display:none">
-	<p>The requested white paper has been emailed to you.</p>
+	<p>The requested white paper will be emailed to you.</p>
 </div>
 
 <div id="error_message3" style="display:none">
@@ -403,16 +409,18 @@ Transparency or providing the customer with the easily verifiable usage statisti
 
 <div id="request_white_paper4" style="display:none">
 	<p>To request the white paper, please fill out the form below</p>
-	<form name="contactform" method="post" action="#" id="emailwhitepaper1">
+	<form name="contactform" method="post" action="#" id="emailwhitepaper4">
 	 
 	  <label for="name">Name*</label><br/>
 	  <input  type="text" name="name" maxlength="50" size="30"></br>
 
-	  <label for="email">Email Address *</label><br>
+	  <label for="email">Work Email Address *</label><br>
 	  <input  type="text" name="email" maxlength="80" size="30"><br/>
 
 	  <label for="company_name">Company Name *</label></br>
 	  <input  type="text" name="company_name" maxlength="80" size="30"></br>
+
+	  <input type="hidden" name="whitepaper" value="Are Business Models key determinants of success in servicized technology products sales scenario?" />
 
 	  <p style="padding-top:20px"/>
 	  <input type="submit" value="Submit"/> 
@@ -421,7 +429,7 @@ Transparency or providing the customer with the easily verifiable usage statisti
 </div>
 
 <div id="success_message4" style="display:none">
-	<p>The requested white paper has been emailed to you.</p>
+	<p>The requested white paper will be emailed to you.</p>
 </div>
 
 <div id="error_message4" style="display:none">
@@ -613,9 +621,11 @@ need to assess the extent of ORCM suitability for your B2B business. </div>
 		}
 	}
 
-	jQuery("#emailwhitepaper1").submit(function(event){
+	whitepaperSubmit = function(event) {
 		event.preventDefault();	
 		var url = "php/EmailWhitePaper.php"; // the script where you handle the form input.
+		var divid = event.target.id;
+		var dividnum = divid.substr(divid.length -1);
 
     	jQuery.ajax({
            type: "POST",
@@ -623,15 +633,21 @@ need to assess the extent of ORCM suitability for your B2B business. </div>
            data: jQuery(this).serialize(), // serializes the form's elements.
            success: function(data)
            {
-           		jQuery("#request_white_paper1").hide();
+           		jQuery("#request_white_paper"+dividnum).hide();
            		if(data.success == true) {
-           			jQuery("#success_message1").show();
+           			jQuery("#success_message"+dividnum).show();
            		} else {
-           			jQuery("#error_message1").show();
+           			jQuery("#error_message"+dividnum).show();
            		}
            }
          });
-	})
+	}
+
+	jQuery("#emailwhitepaper1").submit(whitepaperSubmit);
+	jQuery("#emailwhitepaper2").submit(whitepaperSubmit);
+	jQuery("#emailwhitepaper3").submit(whitepaperSubmit);
+	jQuery("#emailwhitepaper4").submit(whitepaperSubmit);
+
 </script>
 
 <script type='text/javascript' src='js/add-to-cart.min.js'></script>
