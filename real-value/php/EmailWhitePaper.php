@@ -6,7 +6,7 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
 
-    $email_from = "sindhuja.mallepula@realvalueit.com";
+    $email_from = "inquiries@realvalueit.com";
     $email_subject = "Requested white paper";
 
     function returnSuccess() {
@@ -45,7 +45,7 @@ if(isset($_POST['email'])) {
     $company_name = $_POST['company_name']; // not required
     $whitepaper = $_POST['whitepaper'];
 
-    $send_email_to = "sindhuja.mallepula@realvalueit.com";
+    $send_email_to = "inquiries@realvalueit.com";
 
     //$comments = $_POST['comments']; 
  
@@ -98,7 +98,7 @@ if(isset($_POST['email'])) {
     $mail->Send();
 
     $email_message_to_prospect = "Thank you for your interest in Real Value IT's whitepapers. ";
-    $email_message_to_prospect .= "We acknowledge the receipt of your request for the white paper titled ". $whitepaper ."\n";
+    $email_message_to_prospect .= "We acknowledge the receipt of your request for the white paper titled ". "\"".$whitepaper."\"" .".";
     $email_message_to_prospect .= "A pdf copy of the white paper will be emailed to you."."\n\n";
     $email_message_to_prospect .= "Regards,"."\n";
     $email_message_to_prospect .= "Corporate Communications Division,"."\n";
