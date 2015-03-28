@@ -105,7 +105,7 @@ if(isset($_POST['email'])) {
     $email_message_to_prospect .= "Real Value IT LLC.";
 
     $mail_to_prospect = new PHPMailer();
-    $mail_to_prospect->AddAddress($send_email_to);
+    $mail_to_prospect->AddAddress($email_to);
     $mail_to_prospect->From = $email_from;
     $mail_to_prospect->FromName = "Real Value IT";
     $mail_to_prospect->Subject = "Real Value IT - white paper request acknowledgement";
