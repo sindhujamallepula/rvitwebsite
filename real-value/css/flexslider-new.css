@@ -51,11 +51,11 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 	/*background: url(theme/bg_direction_nav.png) no-repeat 0 0; */ 
 	position: absolute; top: 50%; cursor: pointer; text-indent: -9999px;}
 .flex-direction-nav li .next {/*background-position: -52px 0;*/ right: -21px; 
-	background:url(../images/icons/large_right.png) no-repeat 0 0;
+	background:url(../images/why/arrow_right_why_page.png) no-repeat 0 0;
 }
 .flex-direction-nav li .prev {
 	left: -20px;
-	background:url(../images/icons/large_left.png) no-repeat 0 0;
+	background:url(../images/why/arrow_left_why_page.png) no-repeat 0 0;
 }
 .flex-direction-nav li .disabled {opacity: .3; filter:alpha(opacity=30); cursor: default;}
 
