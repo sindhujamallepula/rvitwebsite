@@ -106,7 +106,7 @@ header,#header{
 
 #header_contents > section{
 	display: inline-block; 
-	vertical-align: middle;
+	vertical-align: bottom;
 	padding: 5px;
 }
 
